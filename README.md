@@ -47,29 +47,10 @@ Uses a clean structure with:
 
 ## 📸 Screenshots
 
-<div style="display: flex; gap: 16px;">
+| Home | Details | Login | Sign Up |
+|------|---------|-------|---------|
+| <img src="screenshots/home.png" width="200" /> | <img src="screenshots/details.png" width="200" /> | <img src="screenshots/login.png" width="200" /> | <img src="screenshots/signup.png" width="200" /> |
 
-  <div style="flex: 1; text-align: center;">
-    <img src="screenshots/home.png" width="250" />
-    <p><b>Home Screen</b></p>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="screenshots/details.png" width="250" />
-    <p><b>Details Screen</b></p>
-  </div>
-
-  <div style="flex: 1; text-align: center;">
-    <img src="screenshots/login.png" width="250" />
-    <p><b>Login Screen</b></p>
-  </div>
-  
-    <div style="flex: 1; text-align: center;">
-    <img src="screenshots/signup.png" width="250" />
-    <p><b>Sign up Screen</b></p>
-  </div>
-
-</div>
 
 
 ---
