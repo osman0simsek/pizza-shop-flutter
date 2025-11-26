@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "363140852816",
+    "project_id": "flutter-pizza-app-df440",
+    "storage_bucket": "flutter-pizza-app-df440.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:363140852816:android:580d4b5bbc911c0918b555",
+        "android_client_info": {
+          "package_name": "com.example.flutter_pizza_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0c6UnjhPM4uBk4QuR8UC4Y6cqprZ5noM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

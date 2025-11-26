@@ -1,0 +1,98 @@
+[
+  {
+    "pizzaId": "supreme_carnivore",
+    "picture": "",
+    "isVeg": false,
+    "spicy": 1,
+    "name": "Supreme Carnivore",
+    "description": "A hearty mix of pepperoni, sausage, olives, mushrooms and melted mozzarella.",
+    "price": 18,
+    "discount": 10,
+    "macros": {
+      "calories": 980,
+      "proteins": 42,
+      "fat": 48,
+      "carbs": 95
+    }
+  },
+  {
+    "pizzaId": "classic_margherita",
+    "picture": "",
+    "isVeg": true,
+    "spicy": 0,
+    "name": "Classic Margherita",
+    "description": "Fresh tomato sauce, melted mozzarella and micro greens for a light, refreshing taste.",
+    "price": 14,
+    "discount": 0,
+    "macros": {
+      "calories": 780,
+      "proteins": 28,
+      "fat": 30,
+      "carbs": 88
+    }
+  },
+  {
+    "pizzaId": "smokey_chicken_ranch",
+    "picture": "",
+    "isVeg": false,
+    "spicy": 1,
+    "name": "Smokey Chicken Ranch",
+    "description": "Tender smoked chicken, ranch drizzle, herbs and peppers on a creamy mozzarella base.",
+    "price": 19,
+    "discount": 5,
+    "macros": {
+      "calories": 1020,
+      "proteins": 45,
+      "fat": 52,
+      "carbs": 90
+    }
+  },
+  {
+    "pizzaId": "cheese_overload",
+    "picture": "",
+    "isVeg": true,
+    "spicy": 0,
+    "name": "Cheese Overload",
+    "description": "A rich blend of melted cheeses with oregano and basil for pure cheesy perfection.",
+    "price": 13,
+    "discount": 0,
+    "macros": {
+      "calories": 840,
+      "proteins": 30,
+      "fat": 38,
+      "carbs": 82
+    }
+  },
+  {
+    "pizzaId": "mediterranean_feast",
+    "picture": "",
+    "isVeg": false,
+    "spicy": 1,
+    "name": "Mediterranean Feast",
+    "description": "Sausage, mushrooms, olives, peppers and mozzarella inspired by bold Mediterranean flavors.",
+    "price": 17,
+    "discount": 8,
+    "macros": {
+      "calories": 910,
+      "proteins": 36,
+      "fat": 40,
+      "carbs": 88
+    }
+  },
+  {
+    "pizzaId": "garden_fresh_burrata",
+    "picture": "",
+    "isVeg": true,
+    "spicy": 0,
+    "name": "Garden Fresh Burrata",
+    "description": "Burrata cheese, cherry tomatoes and basil on a wood-fired crust.",
+    "price": 20,
+    "discount": 12,
+    "macros": {
+      "calories": 890,
+      "proteins": 34,
+      "fat": 42,
+      "carbs": 85
+    }
+  }
+]
